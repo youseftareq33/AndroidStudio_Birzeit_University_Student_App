@@ -17,36 +17,74 @@ It features distinct functionalities for both students and administrators, aimin
 
    Update Student: Admins can update the details of existing student records.
 
-View Student Information:
+ - View Student Information:
 
-Admins can view detailed information about students, including their academic and personal details.
-Student Functionalities:
-View University Map:
+   Admins can view detailed information about students, including their academic and personal details.
+
+
+- Student Functionalities:
+
+- View University Map:
 
 Students can view a detailed map of the university campus.
-View Faculty and Major Details:
 
+- View Faculty and Major Details:
+  
 Students can click on a specific faculty to view detailed information about all the majors offered by that faculty.
-Semester Payment Calculation:
+
+- Semester Payment Calculation:
 
 Students can calculate their semester fees based on their major and the cost per credit hour.
-View Cafeteria Products:
 
-Students can view products offered by different cafeterias.
-They can search for specific products within a cafeteria.
-Order Management:
+- View Cafeteria Products:
 
-Add Orders: Students can place orders for cafeteria products, specifying quantities.
-View Orders: Students can view their current orders.
-Checkout Orders: Students can complete their orders through a checkout process.
-Task Management:
+Students can view products offered by different cafeterias., and they can search for specific products within a cafeteria.
 
-View Tasks: Students can view both completed tasks and due tasks.
-Add Task: Students can add new tasks to their task list.
-Delete Task: Students can remove tasks from their task list.
-Academic Grade Calculation:
+- Order Management:
+
+  Add Orders: Students can place orders for cafeteria products, specifying quantities.
+
+  View Orders: Students can view their current orders.
+
+  Checkout Orders: Students can complete their orders through a checkout process.
+
+- Task Management:
+
+  View Tasks: Students can view both completed tasks and due tasks.
+
+  Add Task: Students can add new tasks to their task list.
+
+  Delete Task: Students can remove tasks from their task list.
+
+- Academic Grade Calculation:
 
 Students can calculate their academic grades based on their coursework and exams.
-View Personal Information:
+
+- View Personal Information:
 
 Students can view their personal and academic information stored in the system.
+
+# Tools and Technologies:
+
+- Android SDK: For app development.
+- Python Flask: For backend API services.
+- MySQL: For database management.
+- Volley Library: For network operations.
+- XML: For defining UI components and styles.
+
+# step to run app:
+
+1) run xampp and set database inside it.
+
+2) run main.py that inside Birzeit_student_flask folder.
+
+3) launch android studio and run the project.
+
+
+# Note: 
+
+to enter admin panel:
+
+id: admin
+
+pass: admin
