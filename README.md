@@ -9,15 +9,15 @@ It features distinct functionalities for both students and administrators, aimin
 - Admin Panel Functionalities:
 
 
--- Maintain Students:
+ - Maintain Students:
 
---- Add Student: Admins can add new student records to the system.
+   Add Student: Admins can add new student records to the system.
 
---- Delete Student: Admins can remove existing student records.
+   Delete Student: Admins can remove existing student records.
 
---- Update Student: Admins can update the details of existing student records.
+   Update Student: Admins can update the details of existing student records.
 
---- View Student Information:
+View Student Information:
 
 Admins can view detailed information about students, including their academic and personal details.
 Student Functionalities:
