@@ -26,19 +26,23 @@ It features distinct functionalities for both students and administrators, aimin
 
 - View University Map:
 
-Students can view a detailed map of the university campus.
+  Students can view a detailed map of the university campus.
+  
 
 - View Faculty and Major Details:
   
-Students can click on a specific faculty to view detailed information about all the majors offered by that faculty.
+  Students can click on a specific faculty to view detailed information about all the majors offered by that faculty.
+  
 
 - Semester Payment Calculation:
 
-Students can calculate their semester fees based on their major and the cost per credit hour.
+  Students can calculate their semester fees based on their major and the cost per credit hour.
+  
 
 - View Cafeteria Products:
 
-Students can view products offered by different cafeterias., and they can search for specific products within a cafeteria.
+  Students can view products offered by different cafeterias., and they can search for specific products within a cafeteria.
+  
 
 - Order Management:
 
@@ -48,6 +52,7 @@ Students can view products offered by different cafeterias., and they can search
 
   Checkout Orders: Students can complete their orders through a checkout process.
 
+
 - Task Management:
 
   View Tasks: Students can view both completed tasks and due tasks.
@@ -56,13 +61,15 @@ Students can view products offered by different cafeterias., and they can search
 
   Delete Task: Students can remove tasks from their task list.
 
+
 - Academic Grade Calculation:
 
-Students can calculate their academic grades based on their coursework and exams.
+  Students can calculate their academic grades based on their coursework and exams.
+
 
 - View Personal Information:
 
-Students can view their personal and academic information stored in the system.
+  Students can view their personal and academic information stored in the system.
 
 &nbsp;
 # Tools and Technologies:
