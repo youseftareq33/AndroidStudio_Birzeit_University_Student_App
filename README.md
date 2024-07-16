@@ -6,7 +6,6 @@ It features distinct functionalities for both students and administrators, aimin
 
 
 # Admin Panel Functionalities:
-&nbsp;
 
  - Maintain Students:
 
@@ -24,7 +23,7 @@ It features distinct functionalities for both students and administrators, aimin
 
 
 # Student Functionalities:
-&nbsp;
+
 - View University Map:
 
 Students can view a detailed map of the university campus.
