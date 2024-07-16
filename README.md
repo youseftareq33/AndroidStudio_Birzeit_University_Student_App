@@ -4,11 +4,8 @@
 The Birzeit Student App is designed to assist Birzeit University students with various academic and administrative tasks.
 It features distinct functionalities for both students and administrators, aiming to enhance the student experience and streamline administrative processes.
 
-&nbsp;
-# Functionalities:
 
-&nbsp;
-- Admin Panel Functionalities:
+# Admin Panel Functionalities:
 &nbsp;
 
  - Maintain Students:
@@ -25,7 +22,8 @@ It features distinct functionalities for both students and administrators, aimin
 &nbsp;
 &nbsp;
 
-- Student Functionalities:
+
+# Student Functionalities:
 &nbsp;
 - View University Map:
 
