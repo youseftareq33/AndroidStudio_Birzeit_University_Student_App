@@ -4,10 +4,12 @@
 The Birzeit Student App is designed to assist Birzeit University students with various academic and administrative tasks.
 It features distinct functionalities for both students and administrators, aiming to enhance the student experience and streamline administrative processes.
 
+&nbsp;
 # Functionalities:
 
+&nbsp;
 - Admin Panel Functionalities:
-
+&nbsp;
 
  - Maintain Students:
 
@@ -20,10 +22,11 @@ It features distinct functionalities for both students and administrators, aimin
  - View Student Information:
 
    Admins can view detailed information about students, including their academic and personal details.
-
+&nbsp;
+&nbsp;
 
 - Student Functionalities:
-
+&nbsp;
 - View University Map:
 
 Students can view a detailed map of the university campus.
@@ -64,6 +67,7 @@ Students can calculate their academic grades based on their coursework and exams
 
 Students can view their personal and academic information stored in the system.
 
+&nbsp;
 # Tools and Technologies:
 
 - Android SDK: For app development.
@@ -72,6 +76,7 @@ Students can view their personal and academic information stored in the system.
 - Volley Library: For network operations.
 - XML: For defining UI components and styles.
 
+&nbsp;
 # step to run app:
 
 1) run xampp and set database inside it.
@@ -80,7 +85,7 @@ Students can view their personal and academic information stored in the system.
 
 3) launch android studio and run the project.
 
-
+&nbsp;
 # Note: 
 
 to enter admin panel:
